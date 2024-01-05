@@ -1,0 +1,9 @@
+.navbar-text,
+.navbar-brand,
+.navbar-link,
+.nav-link{
+    color: white !important;
+}
+.btn{
+    color:black;
+}
